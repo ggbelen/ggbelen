@@ -21,6 +21,6 @@ I am Gabriel G. Belen, and I possess a strong inclination towards database admin
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Contact
-- LinkedIn: [LinkedIn Profile](LinkedIn Profile Link)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/gabriel-belen-6247862a3)
 - Email: [belengabriel08@gmail.com](mailto:belengabriel08@gmail.com)
 
