@@ -21,7 +21,7 @@ I am Gabriel G. Belen, and I possess a strong inclination towards database admin
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-## Contact
+## You may reach me at:
 - Phone Number: +63 960 2584 671
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-belen-6247862a3)
 - Email: [belengabriel08@gmail.com](mailto:belengabriel08@gmail.com)
