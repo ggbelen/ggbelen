@@ -15,6 +15,7 @@ I am Gabriel G. Belen, and I possess a strong inclination towards database admin
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5A7DF565E1F489C054C27ED048F202F3AB5A6402CE218ED62341DEEF585556CC)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B8823B1EAAEEE58FA29F31A74137BE26B3C7D41B06DCD5D6A3DB4D64E326DF4B)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c53d8669059047fb9e956bb7053b0222)
+- [Cisco Networking Academy](https://www.credly.com/badges/729b8e27-9d33-4829-a9c1-6272e9d6335a/public_url)
 
 ## Skill Sets:
 - **Programming:** Java, JavaScript
